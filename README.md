@@ -9,16 +9,6 @@ Frame rendered in 49723 ms, saved in 818 ms.
 
 720 still frames rotating in 0.5 increments.
 
+This work is based on Paul Heckbert's "Business-card Raytracer".
 
-
-
-
-
-
-
-
-
-
-
-
-
+https://fabiensanglard.net/rayTracing_back_of_business_card/
